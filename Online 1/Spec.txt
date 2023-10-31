@@ -1,0 +1,3 @@
+Move the sphere along x axis, move like a ball. 
+Use geometry that with one rotation it will go 2pi.r
+Also make infinite grid
